@@ -1,0 +1,9 @@
+---
+title: "50 cent"
+author: "MorozPolina"
+date: "18 02 2017"
+output: html_document
+---
+we are cool girls
+
+
